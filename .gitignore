@@ -1,0 +1,10 @@
+# Directories
+.vs/
+.vscode/
+bin/
+bin-int/
+temp/
+
+# Files
+*.user
+Sandbox/imgui.ini
